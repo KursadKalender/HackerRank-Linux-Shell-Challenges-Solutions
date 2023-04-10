@@ -1,0 +1,3 @@
+read 
+
+echo 'Welcome' $REPLY
