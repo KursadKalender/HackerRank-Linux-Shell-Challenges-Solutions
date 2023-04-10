@@ -1,4 +1,4 @@
-## HackerRank Linux Shell Challenges
+# HackerRank Linux Shell Challenges
 
 <p align="center">  
 	<br>
