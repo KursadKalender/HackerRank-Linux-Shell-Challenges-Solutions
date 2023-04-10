@@ -1,4 +1,3 @@
-# HackerRank-Linux-Shell-Challenges-Solutions
 
 <p align="center">  
 	<br>
@@ -8,6 +7,9 @@
 	<br>
 	<br>
 </p>
+
+## Description
+My solutions for HackerRank Linux Shell Challenges.
 
 ## Bash Challenges
 
