@@ -20,3 +20,4 @@ My solutions for HackerRank Linux Shell Challenges.
 | 2 |Looping and Skipping | [Solution.sh](Challenges/Bash/Looping%20and%20Skipping.sh)
 | 3 |A Personalized Echo | [Solution.sh](Challenges/Bash/A%20Personalized%20Echo.sh)
 | 4 |Looping with Numbers | [Solution.sh](Challenges/Bash/Looping%20with%20Numbers.sh)
+| 5 |The World of Numbers | [Solution.sh](Challenges/Bash/The%20World%20of%20Numbers.sh)
