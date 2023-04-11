@@ -25,3 +25,4 @@ My solutions for HackerRank Linux Shell Challenges.
 | 7 |Getting Started with Conditionals | [Solution.sh](Challenges/Bash/Getting%20Started%20with%20Conditionals.sh)
 | 8 |More on Conditionals | [Solution.sh](Challenges/Bash/More%20on%20Conditionals.sh)
 | 9 |Arithmetic Operations | [Solution.sh](Challenges/Bash/Arithmetic%20Operations.sh)
+| 10 |Compute the Average | [Solution.sh](Challenges/Bash/Compute%20the%20Average.sh)
