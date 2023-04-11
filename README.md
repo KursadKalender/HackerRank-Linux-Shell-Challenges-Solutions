@@ -23,3 +23,4 @@ My solutions for HackerRank Linux Shell Challenges.
 | 5 |The World of Numbers | [Solution.sh](Challenges/Bash/The%20World%20of%20Numbers.sh)
 | 6 |Comparing Numbers | [Solution.sh](Challenges/Bash/Comparing%20Numbers.sh)
 | 7 |Getting Started with Conditionals | [Solution.sh](Challenges/Bash/Getting%20Started%20with%20Conditionals.sh)
+| 8 |More on Conditionals | [Solution.sh](Challenges/Bash/More&20on%20Conditionals.sh)
