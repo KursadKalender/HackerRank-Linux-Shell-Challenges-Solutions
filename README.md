@@ -32,3 +32,4 @@ My solutions for HackerRank Linux Shell Challenges.
 | Number | Challenge | Solutions |
 |:------:|-----------|:---------:|
 | 1 |Cut #1| [Solution.sh](Challenges/Text%20Processing/Cut%20%231.sh) |
+| 2 |Cut #2| [Solution.sh](Challenges/Text%20Processing/Cut%20%232.sh) |
