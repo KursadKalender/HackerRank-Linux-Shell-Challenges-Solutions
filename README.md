@@ -37,3 +37,4 @@ My solutions for HackerRank Linux Shell Challenges.
 | 4 |Cut #4| [Solution.sh](Challenges/Text%20Processing/Cut%20%234.sh) |
 | 5 |Cut #5| [Solution.sh](Challenges/Text%20Processing/Cut%20%235.sh) |
 | 6 |Cut #6| [Solution.sh](Challenges/Text%20Processing/Cut%20%236.sh) |
+| 7 |Cut #7| [Solution.sh](Challenges/Text%20Processing/Cut%20%237.sh) |
