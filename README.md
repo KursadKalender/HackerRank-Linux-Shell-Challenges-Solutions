@@ -39,3 +39,4 @@ My solutions for HackerRank Linux Shell Challenges.
 | 6 |Cut #6| [Solution.sh](Challenges/Text%20Processing/Cut%20%236.sh) |
 | 7 |Cut #7| [Solution.sh](Challenges/Text%20Processing/Cut%20%237.sh) |
 | 8 |Cut #8| [Solution.sh](Challenges/Text%20Processing/Cut%20%238.sh) |
+| 9 |Cut #9| [Solution.sh](Challenges/Text%20Processing/Cut%20%239.sh) |
