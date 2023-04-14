@@ -40,3 +40,4 @@ My solutions for HackerRank Linux Shell Challenges.
 | 7 |Cut #7| [Solution.sh](Challenges/Text%20Processing/Cut%20%237.sh) |
 | 8 |Cut #8| [Solution.sh](Challenges/Text%20Processing/Cut%20%238.sh) |
 | 9 |Cut #9| [Solution.sh](Challenges/Text%20Processing/Cut%20%239.sh) |
+| 10 |Head of a Text File #1| [Solution.sh](Challenges/Text%20Processing/Head%20of%20a%20Text%20File%20%231.sh) |
