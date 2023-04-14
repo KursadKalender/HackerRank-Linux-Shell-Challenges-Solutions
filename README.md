@@ -42,3 +42,4 @@ My solutions for HackerRank Linux Shell Challenges.
 | 9 |Cut #9| [Solution.sh](Challenges/Text%20Processing/Cut%20%239.sh) |
 | 10 |Head of a Text File #1| [Solution.sh](Challenges/Text%20Processing/Head%20of%20a%20Text%20File%20%231.sh) |
 | 11 |Head of a Text File #2| [Solution.sh](Challenges/Text%20Processing/Head%20of%20a%20Text%20File%20%232.sh) |
+| 12 |Middle of a Text File| [Solution.sh](Challenges/Text%20Processing/Middle%20of%20a%20Text%20File.sh) |
