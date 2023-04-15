@@ -47,3 +47,4 @@ My solutions for HackerRank Linux Shell Challenges.
 | 14 |Tail of a Text File #2| [Solution.sh](Challenges/Text%20Processing/Tail%20of%20a%20Text%20File%20%232.sh) |
 | 15 |'Tr' Command #1 | [Solution](Challenges/Text%20Processing/'Tr'%20Command%20%231.sh) |
 | 16 |'Tr' Command #2 | [Solution](Challenges/Text%20Processing/'Tr'%20Command%20%232.sh) |
+| 17 |'Tr' Command #3 | [Solution](Challenges/Text%20Processing/'Tr'%20Command%20%233.sh) |
