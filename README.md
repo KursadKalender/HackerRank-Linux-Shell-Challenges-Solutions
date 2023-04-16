@@ -54,3 +54,4 @@ My solutions for HackerRank Linux Shell Challenges.
 | 21 |Sort Command #4 | [Solution](Challenges/Text%20Processing/Sort%20Command%20%234.sh) |
 | 22 |Sort Command #5 | [Solution](Challenges/Text%20Processing/Sort%20Command%20%235.sh) |
 | 23 |Sort Command #6 | [Solution](Challenges/Text%20Processing/Sort%20Command%20%236.sh) |
+| 24 |Sort Command #7 | [Solution](Challenges/Text%20Processing/Sort%20Command%20%237.sh) |
