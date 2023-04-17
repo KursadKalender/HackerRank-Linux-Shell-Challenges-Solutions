@@ -55,4 +55,4 @@ My solutions for HackerRank Linux Shell Challenges.
 | 22 |Sort Command #5 | [Solution](Challenges/Text%20Processing/Sort%20Command%20%235.sh) |
 | 23 |Sort Command #6 | [Solution](Challenges/Text%20Processing/Sort%20Command%20%236.sh) |
 | 24 |Sort Command #7 | [Solution](Challenges/Text%20Processing/Sort%20Command%20%237.sh) |
-| 25 |'Uniq' Command #1 | [Solution](Challenges/Text%20Processing/'Tr'%20Command%20%231.sh) |
+| 25 |'Uniq' Command #1 | [Solution](Challenges/Text%20Processing/'Uniq'%20Command%20%231.sh) |
