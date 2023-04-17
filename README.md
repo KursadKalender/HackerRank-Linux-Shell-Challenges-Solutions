@@ -63,3 +63,10 @@ My solutions for HackerRank Linux Shell Challenges.
 | 30 |Paste #2| [Solution.sh](Challenges/Text%20Processing/Paste%20%232.sh) |
 | 31 |Paste #3| [Solution.sh](Challenges/Text%20Processing/Paste%20%233.sh) |
 | 32 |Paste #4| [Solution.sh](Challenges/Text%20Processing/Paste%20%234.sh) |
+
+## Arrays in Bash
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 |Read in an Array | [Solution.sh](Challenges/Arrays%20in%20Bash/Read%20in%20an%20Array.sh)
+
