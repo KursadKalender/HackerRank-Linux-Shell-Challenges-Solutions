@@ -69,4 +69,5 @@ My solutions for HackerRank Linux Shell Challenges.
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 |Read in an Array | [Solution.sh](Challenges/Arrays%20in%20Bash/Read%20in%20an%20Array.sh)
+| 2 |Slice an Array | [Solution.sh](Challenges/Arrays%20in%20Bash/Slice%20an%20Array.sh)
 
