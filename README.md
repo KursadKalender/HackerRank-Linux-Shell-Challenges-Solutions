@@ -72,4 +72,5 @@ My solutions for HackerRank Linux Shell Challenges.
 | 2 |Slice an Array | [Solution.sh](Challenges/Arrays%20in%20Bash/Slice%20an%20Array.sh)
 | 3 |Filter an Array with Patterns | [Solution.sh](Challenges/Arrays%20in%20Bash/Filter%20an%20Array%20with%20Patterns.sh)
 | 4 |Concatenate an Array with itself | [Solution.sh](Challenges/Arrays%20in%20Bash/Concatenate%20an%20array%20with%20itself.sh)
+| 5 |Display an element of an array | [Solution.sh](Challenges/Arrays%20in%20Bash/Display%20an%20element%20of%20an%20array.sh)
 
