@@ -76,3 +76,9 @@ My solutions for HackerRank Linux Shell Challenges.
 | 6 |Count the number of Elements in an Array | [Solution.sh](Challenges/Arrays%20in%20Bash/Count%20the%20number%20of%20Elements%20in%20an%20Array.sh)
 | 7 |Remove the First Capital Letter from Each Element | [Solution.sh](Challenges/Arrays%20in%20Bash/Remove%20the%20First%20Capital%20Letter%20from%20Each%20Element.sh)
 | 8 |Lonely Integer - Bash! | [Solution.sh](Challenges/Arrays%20in%20Bash/Lonely%20Integer%20-%20Bash!.sh)
+
+## Grep Sed Awk
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 |'Grep' #1 | [Solution.sh](Challenges/Bash/'Grep'%20%231.sh)
