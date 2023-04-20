@@ -84,3 +84,4 @@ My solutions for HackerRank Linux Shell Challenges.
 | 1 |'Grep' #1 | [Solution.sh](Challenges/Grep%20Sed%20Awk/'Grep'%20%231.sh)
 | 2 |'Grep' #2 | [Solution.sh](Challenges/Grep%20Sed%20Awk/'Grep'%20%232.sh)
 | 3 |'Grep' #3 | [Solution.sh](Challenges/Grep%20Sed%20Awk/'Grep'%20%233.sh)
+| 4 |'Grep' - A | [Solution.sh](Challenges/Grep%20Sed%20Awk/'Grep'%20-%20A.sh)
