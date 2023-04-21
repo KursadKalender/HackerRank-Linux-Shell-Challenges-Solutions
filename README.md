@@ -90,3 +90,4 @@ My solutions for HackerRank Linux Shell Challenges.
 | 7 |'Sed' Command #2 | [Solution.sh](Challenges/Grep%20Sed%20Awk/'Sed'%20Command%20%232.sh)
 | 8 |'Sed' Command #3 | [Solution.sh](Challenges/Grep%20Sed%20Awk/'Sed'%20Command%20%233.sh)
 | 9 |'Sed' Command #4 | [Solution.sh](Challenges/Grep%20Sed%20Awk/'Sed'%20Command%20%234.sh)
+| 10 |'Sed' Command #5 | [Solution.sh](Challenges/Grep%20Sed%20Awk/'Sed'%20Command%20%235.sh)
