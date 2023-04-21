@@ -88,3 +88,4 @@ My solutions for HackerRank Linux Shell Challenges.
 | 5 |'Grep' - B | [Solution.sh](Challenges/Grep%20Sed%20Awk/'Grep'%20-%20B.sh)
 | 6 |'Sed' Command #1 | [Solution.sh](Challenges/Grep%20Sed%20Awk/'Sed'%20Command%20%231.sh)
 | 7 |'Sed' Command #2 | [Solution.sh](Challenges/Grep%20Sed%20Awk/'Sed'%20Command%20%232.sh)
+| 8 |'Sed' Command #3 | [Solution.sh](Challenges/Grep%20Sed%20Awk/'Sed'%20Command%20%233.sh)
