@@ -26,6 +26,7 @@ My solutions for HackerRank Linux Shell Challenges.
 | 8 |More on Conditionals | [Solution.sh](Challenges/Bash/More%20on%20Conditionals.sh)
 | 9 |Arithmetic Operations | [Solution.sh](Challenges/Bash/Arithmetic%20Operations.sh)
 | 10 |Compute the Average | [Solution.sh](Challenges/Bash/Compute%20the%20Average.sh)
+| 11 |Functions and Fractals - Recursive Trees - Bash! | [Solution.sh](Challenges/Bash/Functions%20and%20Fractals%20-%20Recursive%20Trees%20-%20Bash!.sh)
 
 ## Text Processing
 
